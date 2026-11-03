@@ -9,7 +9,6 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "aura-ecommerce-mern": "file:..",
     "axios": "^1.7.9",
     "canvas-confetti": "^1.9.3",
     "lucide-react": "^0.468.0",
